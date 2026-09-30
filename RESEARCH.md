@@ -34,3 +34,7 @@ Last reviewed September 30, 2026. The supplied appointment transcript is the pri
 ## Editorial boundaries and next clinical data
 
 The hook preserves RN's phrasing while immediately qualifying the denominator and inheritance claim. Do not infer Kai's genotype, a precise color-vision type, a global camouflage advantage, a universal occupational restriction, or complete normal retinal function from the transcript. A clinical report could refine the subtype, plate score, binocular finding, and exam details. The site can then be updated with consent and without exposing private child health records.
+
+## Adjacent methods and technology
+
+A separate site section introduces HRR plates, D-15 versus 100 Hue, computer-based threshold methods, lantern tests, and genetic testing. None is attributed to the appointment. Filter glasses, color-identification tools, and investigational gene therapy are discussed with NEI's limits. This is an orientation to method families, not an exhaustive catalogue of every commercial edition or a clinical test order.
