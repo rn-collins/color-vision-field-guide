@@ -1,0 +1,22 @@
+name: Ask a question
+description: A public science or design question about the Color Vision Field Guide
+title: 'Question: '
+labels: ['question']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is a public discussion, not personal medical advice. Please do not share a child's name, records, images, or identifiable health information. RN may use recurring questions to update the sourced guide.
+  - type: textarea
+    id: question
+    attributes:
+      label: What would you like to understand?
+      placeholder: I wonder why...
+    validations:
+      required: true
+  - type: textarea
+    id: section
+    attributes:
+      label: Which section or source prompted the question?
+    validations:
+      required: false
