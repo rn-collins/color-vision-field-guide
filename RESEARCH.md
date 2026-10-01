@@ -12,7 +12,7 @@ Last reviewed September 30, 2026. The supplied appointment transcript is the pri
 | Lights dimmed; retina, optic nerve, internal-eye findings called normal | Fundus method and annotated anatomy | Instrument, dilation, field viewed, clinical notes |
 | Doctor described a mild red–green difference and no glasses needed | Moment; science; method limits | Gene, phenotype classification, fuller report |
 | Pa had a stronger color difference; RN wondered about her X | Conditional three-generation diagram | Everyone's genotype; untested carriers and alternate routes |
-| Doctor said 6–7% of boys | Hook; inheritance prevalence qualifier; claim ledger | Local prevalence by the child's ancestry/population |
+| Unclear 6–7% comment in the appointment transcript | Hook; prevalence qualifier; claim ledger | The imperfect transcript does not reliably identify the speaker or denominator; do not present it as a verified clinician quote or as Kai’s individual odds. Use a published, population-qualified estimate. |
 | Teacher should know; RN reinterpreted color naming | In practice; copyable teacher note; design audit | Individual classroom tasks and supports |
 | Camouflage might sometimes be easier | In practice; two primary studies with opposing/task-dependent patterns | Whether Kai has an advantage in any actual setting |
 | Doctor mentioned driving, careers and annual follow-up | In practice; task-specific caveat and clinician questions | Jurisdiction-specific standards; Kai's individualized schedule |
